@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 Pandemisinin Toplumun Mutluluğu Üzerindeki Etkisi"
+title: "Türkiye’de COVID-19 pandemisinin toplumun mutluluğu üzerindeki etkisi"
 author: 
   - Ömer Yiğit Kaya[^1]
 bibliography: ../bibliography/biblio.bib
