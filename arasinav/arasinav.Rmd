@@ -29,22 +29,20 @@ biblio-style: apalike
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
 ```
-
 <!-- ======================================================================= -->
-
 <!-- ============================== NOTLAR ================================= -->
-
 <!-- ======================================================================= -->
+[^1]: 21080371, [Github Repo](https://github.com/omeryigitkaya/Istatistik-araodev)
 
 # Giriş
 
 Covid-19, 2019 yılı sonunda Çin'in Wuhan kentinde ortaya çıkan ve kısa sürede tüm dünyaya yayılan yeni tip bir koronavirüs hastalığıdır. Dünya Sağlık Örgütü tarafından pandemi ilan edilen Covid-19, insan sağlığı, ekonomi, eğitim, sosyal hayat gibi pek çok alanda ciddi sorunlara neden olmuştur. Covid-19 salgını, bireylerin yaşam koşullarını, ruh sağlığını ve mutluluk düzeylerini de etkilemiştir.
 
-[@bakkeli2021health]'nin araştırmış olduğu **Norveç'te Covid-19 salgını öncesinde ve sırasında mutluluk düzeyi**isimli çalışmayı Türkiye'ye uyarlamak istedim.Bunun için başlangıçta [@karatacs2020covid][@gungorer2020covid][@ustun2020covid]'nin hazırlamış olduğu makaleleri okuyarak bilgi edindim daha sonrasında [@raabe2020satisfaction]detay bilgi ve bu konu hakkında doğru veriyi nereden toplayabilirim onu kavramaya çalıştım.
+[@bakkeli2021health]'nin araştırmış olduğu **Norveç'te Covid-19 salgını öncesinde ve sırasında mutluluk düzeyi**isimli çalışmayı Türkiye'ye uyarlamak istedim.Bunun için başlangıçta [@karatacs2020covid][@gungorer2020covid][@ustun2020covid]'nin hazırlamış olduğu makaleleri okuyarak bilgi edindim daha sonrasında [@marzana2022community]detay bilgi ve bu konu hakkında doğru veriyi nereden toplayabilirim onu kavramaya çalıştım.
 
 Veri setini, genel mutluluk düzeyi, kişisel sağlıktan duyulan memnuniyet ve sosyal hayattan duyulan memnuniyet olacak şekilde, TÜİK'e ait **Merkezi Dağıtım Sisteminden** edindim.Veri setinde cinsiyet, memnuniyet düzeyi (çok mutlu, mutlu, orta, mutsuz, çok mutsuz) ve verinin toplandığı yıl(2018,2019,2020,2021,2022) gibi gözlemler bulunmaktadır.
 
-Covid-19 salgını ve onun yanında getirdiği tüm etkilerin, toplumun mutluluğu üzerindeki etkilerini incelemek için veri setinde yer alan 2018 ve 2019 verilerini Covid-19 öncesi, 2020 ve 2021 verilerini Covid-19 sırası, 2022 verisini ise Covid-19 sonrası olarak inceleyeceğim.
+Covid-19 salgını ve onun yanında getirdiği tüm etkilerin, toplumun mutluluğu üzerindeki etkilerini incelemek için veri setinde yer alan 2018 ve 2019 verilerini Covid-19 **öncesi**, 2020 ve 2021 verilerini Covid-19 **sırası**, 2022 verisini ise Covid-19 **sonrası** olarak inceleyeceğim.
 
 ## Çalışmanın Amacı
 
@@ -62,5 +60,5 @@ Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tart
 
 # Kaynakça {#references}
 
-::: {#refs}
+::: {#''refs''}
 :::
