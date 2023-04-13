@@ -38,7 +38,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 
 Covid-19, 2019 yılı sonunda Çin'in Wuhan kentinde ortaya çıkan ve kısa sürede tüm dünyaya yayılan yeni tip bir koronavirüs hastalığıdır. Dünya Sağlık Örgütü tarafından pandemi ilan edilen Covid-19, insan sağlığı, ekonomi, eğitim, sosyal hayat gibi pek çok alanda ciddi sorunlara neden olmuştur. Covid-19 salgını, bireylerin yaşam koşullarını, ruh sağlığını ve mutluluk düzeylerini de etkilemiştir.
 
-[@bakkeli2021health]'nin araştırmış olduğu **Norveç'te Covid-19 salgını öncesinde ve sırasında mutluluk düzeyi**isimli çalışmayı Türkiye'ye uyarlamak istedim.Bunun için başlangıçta [@karatacs2020covid][@gungorer2020covid][@ustun2020covid]'nin hazırlamış olduğu makaleleri okuyarak bilgi edindim daha sonrasında [@marzana2022community]detay bilgi ve bu konu hakkında doğru veriyi nereden toplayabilirim onu kavramaya çalıştım.
+[@bakkeli2021health]'nin araştırmış olduğu **Norveç'te Covid-19 salgını öncesinde ve sırasında mutluluk düzeyi**isimli çalışmayı Türkiye'ye uyarlamak istedim.Bunun için başlangıçta [@karatacs2020covid] [@gungorer2020covid] [@ustun2020covid]'nin hazırlamış olduğu makaleleri okuyarak bilgi edindim daha sonrasında [@marzana2022community] detay bilgi ve bu konu hakkında doğru veriyi nereden toplayabilirim onu kavramaya çalıştım.
 
 Veri setini, genel mutluluk düzeyi, kişisel sağlıktan duyulan memnuniyet ve sosyal hayattan duyulan memnuniyet olacak şekilde, TÜİK'e ait **Merkezi Dağıtım Sisteminden** edindim.Veri setinde cinsiyet, memnuniyet düzeyi (çok mutlu, mutlu, orta, mutsuz, çok mutsuz) ve verinin toplandığı yıl(2018,2019,2020,2021,2022) gibi gözlemler bulunmaktadır.
 
@@ -53,8 +53,7 @@ Bu çalışmanın amacı, Covid-19 salgınının Türkiye'deki bireylerin mutlul
 Bu çalışmanın önemi, Covid-19 salgınının bireylerin mutluluk düzeyi üzerindeki etkisini ortaya koymasıdır.
 
 ## Literatür
-
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Öncelikle [@marzana2022community] makalesinden yola çıkarak Covid-19’un ilk yılının, yani Türkiye için 2020 yılının **balayı** aşaması olduğunu, bireylerin toplumdan soyutlanmaya adapte olmaya çalıştığını; 2021 yılının ise **depresif** tepkinin yüksek olduğu yıl olduğunu varsayıyoruz. Bu varsayımın doğruluğunu test etmek için veri setimizde genel mutluluk düzeyinin 2020 yılında 2021 yılından daha yüksek olması gerekiyor. [@bakkeli2021health] araştırmasına göre Norveç’te **kişisel sağlıktan duyulan memnuniyet** ile **genel mutluluk** düzeyi arasında negatif bir ilişki bulunmuş. [@gungorer2020covid] makalesi de Türkiye için bu sonucu doğruluyor. [@marzana2022community] çalışması gibi [@karatacs2020covid]'in çalışması da Covid-19’un etkilerinin ağır hissedildiği iki yılın ardından toplumun **genel mutluluk** düzeyinin arttığını ele alıyor.
 
 \newpage
 
